@@ -19,3 +19,4 @@ for ($i = 0; $i < 6; $i++) {
 }
 header("Content-Disposition: attachment; filename=index.m3u8");
 echo $current;
+?>
